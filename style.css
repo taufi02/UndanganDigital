@@ -859,6 +859,7 @@ footer li {
   .closing span {
     font-size: 4rem;
     color: var(--pink);
+    padding-right: 35px;
   }
 
   .opening h4,
