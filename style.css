@@ -836,6 +836,25 @@ footer li {
   .rsvp button {
     margin-top: 0px;
   }
+
+  .hero h1,
+  .catin h1 {
+    font-size: 4rem;
+  }
+
+  .hero h3 {
+    font-size: 5rem;
+  }
+
+  .hero h4 {
+    margin-top: 50%;
+    font-size: 2rem;
+  }
+
+  .hero p {
+    font-size: 1.5rem;
+  }
+  
 }
 
 /* Mobile Phone */
