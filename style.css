@@ -855,31 +855,27 @@ footer li {
     font-size: 1.5rem;
   }
 
-    .opening span,
+  .opening span,
   .closing span {
     font-size: 4rem;
     color: var(--pink);
-    text-shadow: 2px 2px 0 black;
   }
 
   .opening h4,
   .closing h4 {
-    font-size: 2.5rem;
-    text-shadow: 2px 2px 0 black;
+    font-size: 2rem;
   }
 
   .opening h1,
   .closing h1 {
-    font-size: 7rem;
-    text-shadow: 2px 2px 0 black;
+    font-size: 5rem;
+    padding-right: 35px;
   }
 
   .opening p,
   .closing p {
     font-size: 1.5rem;
-    text-shadow: 2px 2px 0 black;
   }
-
   
 }
 
