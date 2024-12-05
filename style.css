@@ -854,6 +854,32 @@ footer li {
   .hero p {
     font-size: 1.5rem;
   }
+
+    .opening span,
+  .closing span {
+    font-size: 4rem;
+    color: var(--pink);
+    text-shadow: 2px 2px 0 black;
+  }
+
+  .opening h4,
+  .closing h4 {
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 0 black;
+  }
+
+  .opening h1,
+  .closing h1 {
+    font-size: 7rem;
+    text-shadow: 2px 2px 0 black;
+  }
+
+  .opening p,
+  .closing p {
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 0 black;
+  }
+
   
 }
 
