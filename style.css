@@ -799,6 +799,11 @@ footer li {
     margin: 10px 25%;
   }
 
+    .opening::before {
+    background-image: url(img/opening2.jpg);
+  }
+
+
   .simply-countdown > .simply-section {
     padding: 20px; /* Atau sesuaikan dengan ukuran yang lebih kecil */
     margin: 5px;
